@@ -34,11 +34,11 @@ https://dev.mysql.com/downloads/installer/
 
 5. Edit ConnectionProvider.java "mysql.jdbc.Driver" at:
 
-**` src/Project/ConnectionProvider.java [Edit ("Password") Use your own "MySQL Workbench" Password!] `**
+**` src/SQLConnection/ConnectionProvider.java [Edit ("Password") Use your own "MySQL Workbench" Password!] `**
 
 6. Execute MySQL code in MySQL Workbench:
 
-**` Open at: src/Project/SQL-Code-Connection.sql (Execute that code in MySQL Workbench) `**
+**` Open at: src/SQLConnection/SQL-Code-Connection.sql (Execute that code in MySQL Workbench) `**
 
 7. Run Project in NetBeans:
 
