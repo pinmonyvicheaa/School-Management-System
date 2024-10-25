@@ -10,7 +10,7 @@
 
 # 🏫 School-Management-System
 
-A School-Management-System is
+The School Management System project in Java appears to be a comprehensive application designed to manage different aspects of a school's operations.
 
 ![School-Management-System](https://github.com/user-attachments/assets/ecec6317-b92a-4afe-8a8f-4232795637c7)
 
