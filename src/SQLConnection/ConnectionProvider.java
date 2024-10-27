@@ -15,7 +15,7 @@ public class ConnectionProvider {
         try
         {
             Class.forName("com.mysql.jdbc.Driver");
-            Connection con=DriverManager.getConnection("jdbc:mysql://localhost:3306/school_management_system","root","VicheaSQL@010");
+            Connection con=DriverManager.getConnection("jdbc:mysql://localhost:3306/school_management_system","root","password");
             return con;
         }
             catch(Exception e)
